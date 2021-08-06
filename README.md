@@ -1,4 +1,4 @@
-# <div align="center"> Hi there, I'm Jeff :wave: </div>
+# <div align="center"> Hello there :wave: </div>
 
 ### <div align="center"> :computer: Junior Front-end/Android Developer </div>
 
