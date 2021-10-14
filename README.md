@@ -14,7 +14,7 @@
 
 ##
 
-## <div align="center">  𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 </div> 
+## <div align="center">  𝗠𝘆 Tech S𝘁𝗮𝗰𝗸s </div> 
 
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
