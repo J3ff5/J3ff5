@@ -1,6 +1,6 @@
 # <div align="center"> Hello there :wave: </div>
 
-### <div align="center"> :computer: Junior Front-end/Android Developer </div>
+### <div align="center"> :computer: Web/Mobile Developer </div>
 
 <img alt="code" src="https://i.redd.it/0kkvgt5iqby61.gif" width="100%" height="400px"/> </br>
 
